@@ -1,6 +1,6 @@
 #DW1000 Driver Library 
 
-![](https://img.shields.io/github/license/DW1000-Driver-Library/editor.md.svg)
+![](https://img.shields.io/badge/license-Apache_2.0_license-gree)
 
 - Using library version 05.01.00
 
