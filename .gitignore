@@ -50,4 +50,18 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+LICENSE
+README
+*.md
+cmake
+*.txt
+*.ink
+cmake-build-debug
+*.DS_STORE
+*.uvoptx
+*.uvprojx
+*.uvmpw
+.git/
+.gitattributes
+
 
